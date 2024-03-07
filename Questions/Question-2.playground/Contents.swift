@@ -1,5 +1,7 @@
 import UIKit
 
+// Question: By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
+
 var randomArray:[Int] = [1,2]
 
 while randomArray.max()! <= 4000000{

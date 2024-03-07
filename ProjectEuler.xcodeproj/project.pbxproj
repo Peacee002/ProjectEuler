@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		CE9956082B989FF40088AD1B /* Question-2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Question-2.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		CE9956092B98A3700088AD1B /* Question-1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Question-1.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		CE99560A2B99FA2E0088AD1B /* Question-4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Question-4.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -24,6 +25,7 @@
 			children = (
 				CE9956082B989FF40088AD1B /* Question-2.playground */,
 				CE9956092B98A3700088AD1B /* Question-1.playground */,
+				CE99560A2B99FA2E0088AD1B /* Question-4.playground */,
 			);
 			path = Questions;
 			sourceTree = "<group>";

@@ -13,6 +13,7 @@
 		CE9956092B98A3700088AD1B /* Question-1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Question-1.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		CE99560A2B99FA2E0088AD1B /* Question-4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Question-4.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		CEA760E12B9A0BE5008C72AE /* Question-5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Question-5.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		CEC5C06E2B9F177300881380 /* Question-8.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Question-8.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -32,6 +33,7 @@
 				CEA760E12B9A0BE5008C72AE /* Question-5.playground */,
 				CE1C882E2B9DE845006371E6 /* Question-6.playground */,
 				CE1C882F2B9DEC9C006371E6 /* Question-7.playground */,
+				CEC5C06E2B9F177300881380 /* Question-8.playground */,
 			);
 			path = Questions;
 			sourceTree = "<group>";
